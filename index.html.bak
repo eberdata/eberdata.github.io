@@ -3,7 +3,7 @@
 	<head>
 		<title>Test</title>
 		<meta charset="utf-8" />
-		<link rel="stylesheet" href="mall.css" />
+		<link rel="stylesheet" type="text/css" href="mall.css" />
 	</head>
 	<body>
 		<h1>Eberdata</h1>
